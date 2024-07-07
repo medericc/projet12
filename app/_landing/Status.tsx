@@ -1,7 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Section } from "./Section";
 import { Code, MessageCircle, Rss, StickyNote, ArrowUpRight, LucideIcon, Weight, Atom, Music, ListMusic, Wind, Database } from "lucide-react";
-
 import { ContactCard } from "./ContactCard";
 import { SideProject, SideProjectProps } from "./SideProject";
 import { Work, WorkProps } from "./Work";
