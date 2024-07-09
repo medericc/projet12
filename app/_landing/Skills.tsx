@@ -1,3 +1,4 @@
+"use client";
 import { Section } from "./Section";
 import { ComponentPropsWithoutRef } from "react";
 import { CustomIcons } from "./icons/CustomIcons";
